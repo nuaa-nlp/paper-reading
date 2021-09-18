@@ -11,7 +11,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Yundi Shi|EMNLP 2017 [Adversarial Examples for Evaluating Reading Comprehension Systems.](https://aclanthology.org/D17-1215.pdf)|[[slide]](./slides/20210916_YundiShi.pdf)|-|
+|Yundi Shi|EMNLP 2017 [Adversarial Examples for Evaluating Reading Comprehension Systems.](https://aclanthology.org/D17-1215.pdf)|[[slides]](./slides/20210916_YundiShi.pdf)|-|
 |-|ACL 2019 [Improving the Robustness of Question Answering Systems to Question Paraphrasing.](https://aclanthology.org/P19-1610.pdf) |-|-|
 
 
@@ -19,7 +19,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Xuan Sheng|USENIX 2020 [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://www.usenix.org/conference/usenixsecurity20/presentation/suya)|[[slide]](./slides/20210902_XuanSheng.pdf)|-|
+|Xuan Sheng|USENIX 2020 [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://www.usenix.org/conference/usenixsecurity20/presentation/suya)|[[slides]](./slides/20210902_XuanSheng.pdf)|-|
 |-|CCS 2020 [Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks](https://dl.acm.org/doi/10.1145/3372297.3417231) |-|-|
 
 
@@ -27,7 +27,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Changchun Yin|ICLR 2014 [Intriguing properties of neural networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1080&rep=rep1&type=pdf)|[[slide]](./slides/20210818_ChangchunYin_AE_CV.pdf)|-|
+|Changchun Yin|ICLR 2014 [Intriguing properties of neural networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1080&rep=rep1&type=pdf)|[[slides]](./slides/20210818_ChangchunYin_AE_CV.pdf)|-|
 |-|ICLR 2015 [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) |-|-|
 |-|IJCAI 2018 [Generating Adversarial Examples with Adversarial Networks](https://www.ijcai.org/proceedings/2018/0543.pdf) |-|-|
 |-|TEC 2019 [One Pixel Attack for Fooling Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8601309/) |-|-|
@@ -37,5 +37,5 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Zhaoyang Han|USENIX 2020 [TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://www.usenix.org/conference/usenixsecurity20/presentation/li-jinfeng)|[[slide]](./slides/20210728_ZhaoyangHan.pdf)|-|
+|Zhaoyang Han|USENIX 2020 [TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://www.usenix.org/conference/usenixsecurity20/presentation/li-jinfeng)|[[slides]](./slides/20210728_ZhaoyangHan.pdf)|-|
 |-|NDSS 2019 [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271) |-|-|
