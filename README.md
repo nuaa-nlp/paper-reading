@@ -6,6 +6,15 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+
+### 2021/09/02
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Yundi Shi|EMNLP 2017 [Adversarial Examples for Evaluating Reading Comprehension Systems.](https://aclanthology.org/D17-1215.pdf)|[[slide]](./slides/20210916_YundiShi.pdf)|-|
+|-|ACL 2019 [Improving the Robustness of Question Answering Systems to Question Paraphrasing.](https://aclanthology.org/P19-1610.pdf) |-|-|
+
+
 ### 2021/09/02
 
 |Speakers|Papers|Slides|Others|
