@@ -10,7 +10,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Wenjie ZHOU|ICDE 2021 [Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://arxiv.org/pdf/2005.08147.pdf)|[[slides]](./slides/20211028_WenjieZHOU.pptx)|-|
+|Wenjie Zhou|ICDE 2021 [Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://arxiv.org/pdf/2005.08147.pdf)|[[slides]](./slides/20211028_WenjieZHOU.pptx)|-|
 
 ### 2021/10/28
 
