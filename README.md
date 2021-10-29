@@ -6,6 +6,11 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2021/10/28
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Wenjie ZHOU|ICDE 2021 [Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://arxiv.org/pdf/2005.08147.pdf)|[[slides]](./slides/20211028_WenjieZHOU.pptx)|-|
 
 ### 2021/10/28
 
