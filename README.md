@@ -11,7 +11,7 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|ZiHao Deng|CVPR 2021 [MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation](https://openaccess.thecvf.com/content/CVPR2021/papers/Kariyappa_MAZE_Data-Free_Model_Stealing_Attack_Using_Zeroth-Order_Gradient_Estimation_CVPR_2021_paper.pdf)|[[slides]](./slides/20211028_ZiHaoDeng.pdf)|-|
+|ZiHao Deng|CVPR 2021 [MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation](https://openaccess.thecvf.com/content/CVPR2021/papers/Kariyappa_MAZE_Data-Free_Model_Stealing_Attack_Using_Zeroth-Order_Gradient_Estimation_CVPR_2021_paper.pdf)|[[slides]](./slides/20211028_ZiHaoDeng.pptx)|-|
 
 ### 2021/10/21
 
