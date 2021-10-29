@@ -7,6 +7,13 @@
 
 ### Next Meeting
 
+### 2021/10/21
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Zhicheng Li|unpublish 2021 [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing.](https://arxiv.org/pdf/2107.13586.pdf)|[[slides]](./slides/20211021_ZhichengLi.pdf)|-|
+
+
 ### 2021/09/16
 
 |Speakers|Papers|Slides|Others|
