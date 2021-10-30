@@ -25,6 +25,14 @@
 |Zhicheng Li|unpublish 2021 [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing.](https://arxiv.org/pdf/2107.13586.pdf)|[[slides]](./slides/20211021_ZhichengLi.pdf)|-|
 
 
+### 2021/09/30
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Zikang Jin|CVPR 2019 [Evading defenses to transferable adversarial examples by translation-invariant attacks.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Evading_Defenses_to_Transferable_Adversarial_Examples_by_Translation-Invariant_Attacks_CVPR_2019_paper.pdf)|[[slides]](./slides/20210930_ZikangJin.pdf)|-|
+|-|CVPR 2019 [Feature space perturbations yield more transferable adversarial examples.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Inkawhich_Feature_Space_Perturbations_Yield_More_Transferable_Adversarial_Examples_CVPR_2019_paper.pdf) |-|-|
+
+
 ### 2021/09/16
 
 |Speakers|Papers|Slides|Others|
