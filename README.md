@@ -6,6 +6,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+
+### 2021/11/11
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Zeyu Qin (CUHK-SZ)|A Brief Tutorial of Adversarial Machine Learning (After 2019)|[[slides]]()|-|
+
+
 ### 2021/10/28
 
 |Speakers|Papers|Slides|Others|
