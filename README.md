@@ -10,9 +10,9 @@
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Xuanfan Ni (NUAA)|[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)|[[slides]]()|-|
-|-|[A Character-Centric Neural Model for Automated Story Generation](https://www.researchgate.net/publication/342543878_A_Character-Centric_Neural_Model_for_Automated_Story_Generation)|[[slides]]()|-|
-|-|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|[[slides]]()|-|
+|Xuanfan Ni (NUAA)|[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)|[[slides]](./slides/20211116_Nixuanfan_2.pptx)|-|
+|-|[A Character-Centric Neural Model for Automated Story Generation](https://www.researchgate.net/publication/342543878_A_Character-Centric_Neural_Model_for_Automated_Story_Generation)|[[slides]](./slides/20211116_Nixuanfan_3.pptx)|-|
+|-|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|[[slides]](./slides/20211116_Nixuanfan_1.pptx)|-|
 
 
 ### 2021/11/11
