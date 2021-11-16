@@ -6,6 +6,13 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2021/11/17
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Xuanfan Ni (NUAA)|[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)|[[slides]]()|-|
+|-|[A Character-Centric Neural Model for Automated Story Generation![image](https://arxiv.org/pdf/1706.03762.pdf)|[[slides]]()|-|
+|-|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|[[slides]]()|-|
 
 ### 2021/11/11
 
