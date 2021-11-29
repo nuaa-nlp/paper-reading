@@ -6,6 +6,19 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+
+### 2021/12/02
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Weibin Wu (NUAA)|A Brief Tutorial of Side Channel Attack|[[slides]]()|-|
+
+### 2021/11/25
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Zhixin Zhao (NUAA)|A Brief Tutorial of Blockchain|[[slides]]()|-|
+
+
+
 ### 2021/11/17
 
 |Speakers|Papers|Slides|Others|
