@@ -10,6 +10,11 @@
 ### 2021/12/02
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
+|Fuan Yuan (NUAA)| multi-modal dialogue paper sharing|[[slides]]()|-|
+
+### 2021/12/02
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
 |Weibin Wu (NUAA)|A Brief Tutorial of Side Channel Attack|[[slides]]()|-|
 
 ### 2021/11/25
