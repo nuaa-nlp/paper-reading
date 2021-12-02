@@ -10,7 +10,7 @@
 ### 2021/12/02
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Fan Yuan (NUAA)| multi-modal dialogue paper sharing|[[slides]]()|-|
+|Fan Yuan (NUAA)| multi-modal dialogue paper sharing|[[slides]](./slides/20211202_Yuanfan.pdf)|-|
 |-|[Multi-Modal Open-Domain Dialogue](https://arxiv.org/pdf/2010.01082.pdf)|-|-|
 |-|[Multimodal Dialogue Response Generation](https://arxiv.org/pdf/2110.08515.pdf)|-|-|
 |-|[Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts](https://arxiv.org/pdf/2111.08276.pdf)|-|-|
