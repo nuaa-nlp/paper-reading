@@ -11,8 +11,7 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |RuoQing Zhao(NUAA)| causal inference and medical report generation paper sharing|[[slides]|-|-|
-|-|[TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays
-](https://arxiv.org/pdf/1801.04334.pdf)|-|-|
+|-|[TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.pdf)|-|-|
 |-|[Causal Attention for Vision-Language Tasks](https://arxiv.org/pdf/2103.03493.pdf)|-|-|
 
 
