@@ -10,7 +10,7 @@
 ### 2021/12/22
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Xi Wang(NUAA)| Chinese Spelling Check paper sharing|[[slides]](./slides/20211222_Wangxi.pptx)|-|-|
+|Xi Wang(NUAA)| Chinese Spelling Check paper sharing|[[slides]](./slides/20211222_Wangxi.pdf)|-|-|
 |-|[SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://arxiv.org/pdf/2004.14166v2.pdf)|-|-|
 |-|[Correcting Chinese Spelling Errors with Phonetic Pre-training](https://aclanthology.org/2021.findings-acl.198)|-|-|
 |-|[PHMOSpell: Phonological and Morphological Knowledge Guided Chinese Spelling Check](https://aclanthology.org/2021.acl-long.464)|-|-|
