@@ -7,6 +7,13 @@
 
 ### Next Meeting
 
+### 2022/03/25
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Zhaoyang Han|CCS 2017 [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://doi.org/10.1145/3133956.3133982)|[[slides]](./slides/20220325_secagg.pdf)|-|
+|-|MLSys 2019 [TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN](https://proceedings.mlsys.org/book/271.pdf)|[[slides]](./slides/20220325_flsys.pdf)|-|
+
 ### 2021/12/22
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
