@@ -7,6 +7,12 @@
 
 ### Next Meeting
 
+### 2022/04/01
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Xuan Sheng|ICLR 2020 [Heterofl: Computation and communication efficient federated learning for heterogeneous clients](https://arxiv.org/pdf/2010.01264.pdf)|[[slides]](./slides/20220401_XuanSheng.pdf)|-|
+|-|NeurIPS workshop 2019 [FedMD: Heterogenous Federated Learning via Model Distillation](https://arxiv.org/pdf/1910.03581.pdf)|-|-|
+
 ### 2022/03/25
 
 |Speakers|Papers|Slides|Others|
