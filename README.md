@@ -10,8 +10,8 @@
 ### 2022/09/13
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Congchi Yin|||
-|||||
+|Congchi Yin|ICLR 2021 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/pdf?id=YicbFdNTTy&amp=1)|-|-|
+|-|ICCV 2021 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030v2)|-|-|
 
 ### 2022/04/01
 |Speakers|Papers|Slides|Others|
