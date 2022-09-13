@@ -10,7 +10,7 @@
 ### 2022/09/20
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Cao Yang |
+|Yang Cao |
 |-|    |-|-|
 
 ### 2022/09/13
