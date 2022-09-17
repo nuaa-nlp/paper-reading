@@ -10,7 +10,7 @@
 ### 2022/09/20
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Yang Cao|NIPS 2017 [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)|-|-|
+|Yang Cao|NIPS 2017 [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)|[[slides]](./slides/20220920_YangCao.pdf)|-|
 
 ### 2022/09/13
 |Speakers|Papers|Slides|Others|
