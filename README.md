@@ -10,9 +10,9 @@
 ### 2022/09/27
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Ruoqing Zhao|NIPS 2017 [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)|[[slides]](./slides/20220920_YangCao.pdf)|-|
-|-|NIPS 2017 [BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers](https://arxiv.org/abs/2208.06366)|-|-|
-|-|NIPS 2017 [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/abs/2208.10442)|-|-|
+|Ruoqing Zhao|ICLR 2022 [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)|[[slides]](./slides/20220927_RuoQingZhao.ppt)|-|
+|-| [BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers](https://arxiv.org/abs/2208.06366)|-|-|
+|-| [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/abs/2208.10442)|-|-|
 
 
 ### 2022/09/20
