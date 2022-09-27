@@ -10,7 +10,7 @@
 ### 2022/09/27
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Ruoqing Zhao|ICLR 2022 [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)|[[slides]](./slides/20220927_RuoQingZhao.ppt)|-|
+|Ruoqing Zhao|ICLR 2022 [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)|[[slides]](./slides/20220927_RuoQingZhao.pptx)|-|
 |-| [BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers](https://arxiv.org/abs/2208.06366)|-|-|
 |-| [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/abs/2208.10442)|-|-|
 
