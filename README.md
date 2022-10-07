@@ -7,6 +7,16 @@
 
 ### Next Meeting
 
+### 2022/10/18
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Feiyan Zhai|||-|
+
+### 2022/10/11
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Xi Wang|||-|
+
 ### 2022/09/27
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
