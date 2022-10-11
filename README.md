@@ -15,7 +15,7 @@
 ### 2022/10/11
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Xi Wang|||-|
+|Xi Wang|ICML 2020 [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](https://arxiv.org/pdf/2002.08546.pdf)|[[slides]](./slides/20221011_Wangxi.pdf)|-|
 
 ### 2022/09/27
 |Speakers|Papers|Slides|Others|
