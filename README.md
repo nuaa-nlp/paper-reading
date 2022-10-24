@@ -10,7 +10,7 @@
 ### 2022/10/18
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Feiyan Zhai|||-|
+|Feiyan Zhai||[[slides]](./slides/20221023_FeiyanZhai.pdf)|-|
 
 ### 2022/10/11
 |Speakers|Papers|Slides|Others|
