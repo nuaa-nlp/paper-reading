@@ -10,7 +10,8 @@
 ### 2022/10/18
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Feiyan Zhai||[[slides]](./slides/20221023_FeiyanZhai.pdf)|-|
+|Feiyan Zhai|NeurIPS 2020 [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)|[[slides]](./slides/20221023_FeiyanZhai.pptx)|-|
+|-| [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217)|-|-|
 
 ### 2022/10/11
 |Speakers|Papers|Slides|Others|
