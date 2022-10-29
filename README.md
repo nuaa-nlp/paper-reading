@@ -10,7 +10,7 @@
 ### 2022/10/18
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Fan Yuan|ICLR 2019 [The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision]([https://arxiv.org/abs/2006.11239](https://arxiv.org/pdf/1904.12584.pdf))|[[slides]](./slides/20221101_FanYuan.pdf)|-|
+|Fan Yuan|ICLR 2019 [The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision](https://arxiv.org/pdf/1904.12584.pdf)|[[slides]](./slides/20221101_FanYuan.pdf)|-|
 
 ### 2022/10/18
 |Speakers|Papers|Slides|Others|
