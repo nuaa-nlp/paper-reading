@@ -7,6 +7,13 @@
 
 ### Next Meeting
 
+### 2022/11/15
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Xuanfan Ni (NUAA)|[Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)|[[slides]](./slides/20221115_Nixuanfan.pdf)|-|
+|-|[Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)|[[slides]](./slides/20221115_Nixuanfan.pdf)|-|
+
+
 ### 2022/11/01
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
