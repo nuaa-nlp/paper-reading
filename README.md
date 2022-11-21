@@ -6,6 +6,22 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2022/11/22
+
+|  Speakers   | Papers                                                       |                    Slides                    | Others |
+| :---------: | :----------------------------------------------------------- | :------------------------------------------: | :----: |
+| Renzhi Wang | [Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2006.11239) | [[slides]](./slides/20221122_RenzhiWang.pdf) |   -    |
+|      -      | [Improved Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2102.09672) |                      -                       |   -    |
+|      -      | [Score-Based Generative Modeling through Stochastic Differential Equations](http://arxiv.org/abs/2011.13456) |                      -                       |   -    |
+|      -      | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://proceedings.mlr.press/v139/rasul21a.html) |                      -                       |   -    |
+|      -      | [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233) |                      -                       |   -    |
+|      -      | [High-Resolution Image Synthesis With Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html) |                      -                       |   -    |
+|      -      | [Diffusion-LM Improves Controllable Text Generation](http://arxiv.org/abs/2205.14217) |                      -                       |   -    |
+|             | [Denoising Diffusion Implicit Models](http://arxiv.org/abs/2010.02502) |                      -                       |   -    |
+|      -      | [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](http://arxiv.org/abs/2210.08933) |                      -                       |   -    |
+|      -      | [Structured Denoising Diffusion Models in Discrete State-Spaces](http://arxiv.org/abs/2107.03006) |                      -                       |   -    |
+|      -      | [DiffusER: Discrete Diffusion via Edit-based Reconstruction](http://arxiv.org/abs/2210.16886) |                      -                       |   -    |
+|      -      | [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control](http://arxiv.org/abs/2210.17432) |                      -                       |   -    |
 
 ### 2022/11/15
 |Speakers|Papers|Slides|Others|
