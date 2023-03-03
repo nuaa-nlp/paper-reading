@@ -6,6 +6,12 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2022/09/13
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Congchi Yin|findings of ACL 2022 Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text](https://aclanthology.org/2022.findings-acl.127/)|[[slides]](./slides/20230303_CongchiYin.pdf)|-|
+|-|findings of ACL 2022 [MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning](https://aclanthology.org/2022.findings-acl.127/)|-|-|
+
 ### 2022/12/06
 
 |  Speakers   | Papers                                                       |                    Slides                    | Others |
