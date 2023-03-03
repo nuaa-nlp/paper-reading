@@ -6,12 +6,6 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
-### 2022/09/13
-|Speakers|Papers|Slides|Others|
-|:----:|:----|:----:|:-----:|
-|Congchi Yin|ICLR 2021 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/pdf?id=YicbFdNTTy&amp=1)|[[slides]](./slides/20220913_CongchiYin.pdf)|-|
-|-|ICCV 2021 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030v2)|-|-|
-
 ### 2023/03/03
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
