@@ -9,7 +9,13 @@
 ### 2022/09/13
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Congchi Yin|findings of ACL 2022 Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text](https://aclanthology.org/2022.findings-acl.127/)|[[slides]](./slides/20230303_CongchiYin.pdf)|-|
+|Congchi Yin|ICLR 2021 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/pdf?id=YicbFdNTTy&amp=1)|[[slides]](./slides/20220913_CongchiYin.pdf)|-|
+|-|ICCV 2021 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030v2)|-|-|
+
+### 2023/03/03
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Congchi Yin|findings of ACL 2022 [Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text](https://aclanthology.org/2022.findings-acl.127/)|[[slides]](./slides/20230303_CongchiYin.pdf)|-|
 |-|findings of ACL 2022 [MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning](https://aclanthology.org/2022.findings-acl.127/)|-|-|
 
 ### 2022/12/06
