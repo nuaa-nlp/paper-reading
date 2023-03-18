@@ -8,6 +8,7 @@
 ### Next Meeting
 
 ### 2023/03/17
+|Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |Yang Cao| [Get To The Point: Summarization with Pointer-Generator Networks](https://aclanthology.org/P17-1099/)|[[slides]](./slides/20230317_YangCao.pdf)|-|
 |-| [SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization](https://aclanthology.org/2021.acl-short.135/)|-|-|
