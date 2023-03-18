@@ -6,6 +6,13 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+
+### 2023/03/17
+|:----:|:----|:----:|:-----:|
+|Yang Cao| [Get To The Point: Summarization with Pointer-Generator Networks](https://aclanthology.org/P17-1099/)|[[slides]](./slides/20230317_YangCao.pdf)|-|
+|-| [SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization](https://aclanthology.org/2021.acl-short.135/)|-|-|
+
+
 ### 2023/03/03
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
