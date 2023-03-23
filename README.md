@@ -10,7 +10,7 @@
 ### 2023/03/23
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Fan Yuan| [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045)|[[slides]](./slides/2023323_FanYuan.pptx)|-|
+|Fan Yuan| [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045)|[[slides]](./slides/20230323_FanYuan.pdf)|-|
 |-|[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)|-|-|
 
 
