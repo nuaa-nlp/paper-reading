@@ -7,6 +7,12 @@
 
 ### Next Meeting
 
+### 2023/04/07
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Xi Wang| [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)|[slides]|-|
+|-|[Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846)|-|-|
+
 ### 2023/03/23
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
