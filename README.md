@@ -11,13 +11,13 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |Xuanfan Ni| [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)|[[slides]](./slides/20230421_XuanfanNi.pdf)|-|
-|-|[Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2303.03846)|-|-|
+|-|[Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2302.12813)|-|-|
 
 ### 2023/04/07
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |Xi Wang| [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)|[[slides]](./slides/20230407_XiWang.pdf)|-|
-|-|[Larger language models do in-context learning differently](https://arxiv.org/abs/2302.12813)|-|-|
+|-|[Larger language models do in-context learning differently]([https://arxiv.org/abs/2302.12813](https://arxiv.org/abs/2303.03846))|-|-|
 
 ### 2023/03/23
 |Speakers|Papers|Slides|Others|
