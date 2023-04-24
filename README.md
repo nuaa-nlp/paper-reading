@@ -17,7 +17,7 @@
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |Xi Wang| [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)|[[slides]](./slides/20230407_XiWang.pdf)|-|
-|-|[Larger language models do in-context learning differently](https://arxiv.org/abs/2302.12813](https://arxiv.org/abs/2303.03846))|-|-|
+|-|[Larger language models do in-context learning differently](https://arxiv.org/abs/2302.12813)|-|-|
 
 ### 2023/03/23
 |Speakers|Papers|Slides|Others|
