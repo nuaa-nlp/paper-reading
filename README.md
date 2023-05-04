@@ -6,6 +6,10 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/05/05
+|  Speakers   | Papers                                                       |                   Slides                    | Others |
+| :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
+| Renzhi Wang | [Generative Agents: Interactive Simulacra of Human Behavior ](https://arxiv.org/abs/2304.03442) | [[slides]](./slides/20230505_RenzhiWang.pdf) |        -|
 
 ### 2023/04/21
 |Speakers|Papers|Slides|Others|
