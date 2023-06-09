@@ -6,6 +6,11 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/06/09
+|  Speakers   | Papers                                                       |                   Slides                    | Others |
+| :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
+| Feiyan Zhai | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness ](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf) | [[slides]](./slides/20230609_FeiyanZhai.pdf) |        -|
+
 ### 2023/05/05
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
