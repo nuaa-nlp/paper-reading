@@ -6,6 +6,11 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/06/30
+|  Speakers   | Papers                                                       |                   Slides                    | Others |
+| :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
+| Shuo Feng | [ NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models ](https://arxiv.org/pdf/2305.16986) | [[slides]](./slides/20230630_ShuoFeng.pdf) |        -|
+
 ### 2023/06/09
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
