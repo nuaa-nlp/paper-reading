@@ -9,8 +9,8 @@
 ### 2023/09/13
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
-| Yihong Liu | [ Highly accurate protein structure prediction with AlphaFold ](https://www.nature.com/articles/s41586-021-03819-2)) | [[slides]](./slides/20230630_ShuoFeng.pdf) |        -|
-| - | [ Robust deep learning based protein sequence design using ProteinMPNN ](https://www.science.org/doi/10.1126/science.add2187)) | - |        -|
+| Yihong Liu | [ Highly accurate protein structure prediction with AlphaFold ](https://www.nature.com/articles/s41586-021-03819-2) | [[slides]](./slides/20230630_ShuoFeng.pdf) |        -|
+| - | [ Robust deep learning based protein sequence design using ProteinMPNN ](https://www.science.org/doi/10.1126/science.add2187) | - |        -|
 | - | [ ProteinBERT: A universal deep-learning model of protein sequence and function ](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274?login=true) | - |        -|
 | - | [ ProtGPT2 is a deep unsupervised language model for protein design ](https://www.nature.com/articles/s41467-022-32007-7) | - |        -|
 | - | [ OntoProtein: Protein Pretraining With Gene Ontology Embedding ](https://arxiv.org/abs/2201.11147) | - |        -|
