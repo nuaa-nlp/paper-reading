@@ -9,7 +9,7 @@
 ### 2023/09/13
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
-| Yihong Liu | [ Highly accurate protein structure prediction with AlphaFold ]([https://arxiv.org/pdf/2305.16986](https://www.nature.com/articles/s41586-021-03819-2)) | [[slides]](./slides/20230630_ShuoFeng.pdf) |        -|
+| Yihong Liu | [ Highly accurate protein structure prediction with AlphaFold ](https://www.nature.com/articles/s41586-021-03819-2)) | [[slides]](./slides/20230630_ShuoFeng.pdf) |        -|
 
 ### 2023/09/13
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
