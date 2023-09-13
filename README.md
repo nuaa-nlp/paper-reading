@@ -19,6 +19,7 @@
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
 | Shuo Feng | [ NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models ](https://arxiv.org/pdf/2305.16986) | [[slides]](./slides/20230630_ShuoFeng.pdf) |        -|
+| - | [ TEACh: Task-driven Embodied Agents that Chat ](https://ojs.aaai.org/index.php/AAAI/article/view/20097) | - |        -|
 
 ### 2023/06/09
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
