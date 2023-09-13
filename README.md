@@ -13,7 +13,7 @@
 | - | [ Robust deep learning based protein sequence design using ProteinMPNN ](https://www.science.org/doi/10.1126/science.add2187)) | - |        -|
 | - | [ ProteinBERT: A universal deep-learning model of protein sequence and function ](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274?login=true) | - |        -|
 | - | [ ProtGPT2 is a deep unsupervised language model for protein design ](https://www.nature.com/articles/s41467-022-32007-7) | - |        -|
-| - | [ ONTOPROTEIN: PROTEIN PRETRAINING WITH GENE ONTOLOGY EMBEDDING ](https://arxiv.org/abs/2201.11147) | - |        -|
+| - | [ OntoProtein: Protein Pretraining With Gene Ontology Embedding ](https://arxiv.org/abs/2201.11147) | - |        -|
 
 ### 2023/09/13
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
