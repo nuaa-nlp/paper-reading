@@ -6,6 +6,13 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/09/25
+|  Speakers   | Papers                                                       |                   Slides                    | Others |
+| :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
+| Feiyan Zhai | [ Go Wider Instead of Deeper ](https://arxiv.org/pdf/2107.11817.pdf) | [[slides]](./slides/20230925_FeiyanZhai.pptx) |        -|
+| - | [ Pushing Mixture of Experts to the Limit:Extremely Parameter Efficient MoE for Instruction Tuning ](https://arxiv.org/abs/2309.05444) | - |        -|
+| - | [ OUTRAGEOUSLY LARGE NEURAL NETWORKS:THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER ](https://arxiv.org/abs/1701.06538) | - |        -|
+
 ### 2023/09/13
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
