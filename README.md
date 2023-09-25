@@ -13,7 +13,15 @@
 | - | [ Pushing Mixture of Experts to the Limit:Extremely Parameter Efficient MoE for Instruction Tuning ](https://arxiv.org/abs/2309.05444) | - |        -|
 | - | [ OUTRAGEOUSLY LARGE NEURAL NETWORKS:THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER ](https://arxiv.org/abs/1701.06538) | - |        -|
 
+| Speakers | Papers                                                       |                  Slides                   | Others |
+| :------: | ------------------------------------------------------------ | :---------------------------------------: | :----: |
+| BoZhang  | [Generative Agents: Interactive Simulacra of Human Behavior ](https://arxiv.org/abs/2304.03442) | [[slides]](./slides/20230925_BoZhang.pdf) |   -    |
+|    -     | [CHATEVAL: TOWARDS BETTER LLM-BASED EVALUATORS THROUGH MULTI-AGENT DEBATE](https://arxiv.org/abs/2308.07201) |                     -                     |   -    |
+|    -     | [BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents ](https://arxiv.org/abs/2308.05960) |                     -                     |   -    |
+|    -     | [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155) |                     -                     |   -    |
+
 ### 2023/09/13
+
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
 | Yihong Liu | [ Highly accurate protein structure prediction with AlphaFold ](https://www.nature.com/articles/s41586-021-03819-2) | [[slides]](./slides/20230630_ShuoFeng.pdf) |        -|
