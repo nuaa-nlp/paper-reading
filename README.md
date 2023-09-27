@@ -6,6 +6,12 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/09/27
+|  Speakers   | Papers                                                       |                   Slides                    | Others |
+| :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
+| Fan Yuan | [ Chain-of-Verification Reduces Hallucination in Large Language Models ]([https://arxiv.org/pdf/2107.11817.pdf](https://arxiv.org/abs/2309.11495)) | [[slides]](./slides/20230925_FeiyanZhai.pptx) |        -|
+| - | [ Evaluating Object Hallucination in Large Vision-Language Models ](https://arxiv.org/abs/2305.10355) | - |        -|
+
 ### 2023/09/25
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
