@@ -9,7 +9,7 @@
 ### 2023/09/27
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
-| Fan Yuan | [ Chain-of-Verification Reduces Hallucination in Large Language Models ]([https://arxiv.org/pdf/2107.11817.pdf](https://arxiv.org/abs/2309.11495)) | [[slides]](./slides/20230925_FeiyanZhai.pptx) |        -|
+| Fan Yuan | [ Chain-of-Verification Reduces Hallucination in Large Language Models ](https://arxiv.org/abs/2309.11495) | [[slides]](./slides/20230927_fyuan.pptx) |        -|
 | - | [ Evaluating Object Hallucination in Large Vision-Language Models ](https://arxiv.org/abs/2305.10355) | - |        -|
 
 ### 2023/09/25
