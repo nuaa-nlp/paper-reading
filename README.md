@@ -12,7 +12,13 @@
 | Fan Yuan | [ Chain-of-Verification Reduces Hallucination in Large Language Models ](https://arxiv.org/abs/2309.11495) | [[slides]](./slides/20230927_fyuan.pptx) |        -|
 | - | [ Evaluating Object Hallucination in Large Vision-Language Models ](https://arxiv.org/abs/2305.10355) | - |        -|
 
+|  Speakers   | Papers                                                       |                   Slides                    | Others |
+| :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
+| Xuanfan NI | [ DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS](http://arxiv.org/abs/2309.03883) | [[slides]](./slides/20230927_xfni.pdf) |        -|
+| - | [Knowledge Sanitization of Large Language Models](http://arxiv.org/abs/2309.11852) | - |        -|
+
 ### 2023/09/25
+
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
 | Feiyan Zhai | [ Go Wider Instead of Deeper ](https://arxiv.org/pdf/2107.11817.pdf) | [[slides]](./slides/20230925_FeiyanZhai.pptx) |        -|
