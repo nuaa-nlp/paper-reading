@@ -10,7 +10,7 @@
 ### 2023/10/11
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
-| Renzhi Wang | [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172) | [[slides]](./slides/20231011_RenzhiWang.pptx) |   -    |
+| Renzhi Wang | [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172) | [[slides]](./slides/20231011_RenzhiWang.pdf) |   -    |
 |      -      | [EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269) |                    -                     |   -    |
 
 
