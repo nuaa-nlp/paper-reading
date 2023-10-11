@@ -6,6 +6,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+
+### 2023/10/11
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Renzhi Wang | [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172) | [[slides]](./slides/20231011_RenzhiWang.pptx) |   -    |
+|      -      | [EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269) |                    -                     |   -    |
+
+
 ### 2023/09/27
 |  Speakers   | Papers                                                       |                   Slides                    | Others |
 | :---------: | :----------------------------------------------------------- | :-----------------------------------------: | :----: |
