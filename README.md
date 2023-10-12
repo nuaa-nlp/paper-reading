@@ -12,6 +12,8 @@
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
 | Renzhi Wang | [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172) | [[slides]](./slides/20231011_RenzhiWang.pdf) |   -    |
 |      -      | [EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269) |                    -                     |   -    |
+| Xinyan Shi | [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/abs/2201.06009v6) | [[slides]](./slides/20231011_XinyanShi.pptx) |   -    |
+|      -      | [Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adapters](https://arxiv.org/abs/2211.11031) |                    -                     |   -    |
 
 
 ### 2023/09/27
