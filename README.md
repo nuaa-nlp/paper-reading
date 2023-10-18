@@ -6,7 +6,11 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
-
+### 2023/10/18
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Runze Xia| [MindGPT: Interpreting What You See with Non-invasive Brain Recordings](http://arxiv.org/abs/2309.15729) | [[slides]](./slides/20231018_RunzeXia.pdf) |   -    |
+|      -      | [BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity](http://arxiv.org/abs/2310.04420) |                    -                     |   -    |
 ### 2023/10/11
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
