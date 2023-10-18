@@ -9,7 +9,7 @@
 ### 2023/10/18
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
-| Runze Xia| [MindGPT: Interpreting What You See with Non-invasive Brain Recordings](http://arxiv.org/abs/2309.15729) | [[slides]](./slides/20231018_RunzeXia.pdf) |   -    |
+| Runze Xia| [MindGPT: Interpreting What You See with Non-invasive Brain Recordings](http://arxiv.org/abs/2309.15729) | [[slides]](./slides/20231018_RunzeXia.pptx) |   -    |
 |      -      | [BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity](http://arxiv.org/abs/2310.04420) |                    -                     |   -    |
 ### 2023/10/11
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
