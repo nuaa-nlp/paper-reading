@@ -6,6 +6,11 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/10/25
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Ruoqing Zhao| [Finding-Aware Anatomical Tokens for Chest X-Ray Automated Reporting]((https://arxiv.org/abs/2308.15961)) | [[slides]](./slides/20231025_RuoqingZhao.pptx) |   -    |
+|      -      | [BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity]((https://arxiv.org/abs/2302.14042)) |                    -                     |   -    |
 ### 2023/10/18
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
