@@ -9,8 +9,8 @@
 ### 2023/10/25
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
-| Ruoqing Zhao| [Finding-Aware Anatomical Tokens for Chest X-Ray Automated Reporting]((https://arxiv.org/abs/2308.15961)) | [[slides]](./slides/20231025_RuoqingZhao.pptx) |   -    |
-|      -      | [BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity]((https://arxiv.org/abs/2302.14042)) |                    -                     |   -    |
+| Ruoqing Zhao| [Finding-Aware Anatomical Tokens for Chest X-Ray Automated Reporting](https://arxiv.org/abs/2308.15961) | [[slides]](./slides/20231025_RuoqingZhao.pptx) |   -    |
+|      -      | [Knowledge-enhanced Visual-Language Pre-training on Chest Radiology Images](https://arxiv.org/abs/2302.14042) |                    -                     |   -    |
 ### 2023/10/18
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
