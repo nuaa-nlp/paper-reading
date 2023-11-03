@@ -6,6 +6,10 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/11/03
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Congchi Yin| [Disentangling Syntax and Semantics in the Brain with Deep Networks](https://hal.science/hal-03361421v1/preview/Narratives_Syntax_semantics.pdf) | [[slides]](./slides/20231025_RuoqingZhao.pptx) |   -    |
 ### 2023/10/25
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
