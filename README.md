@@ -9,7 +9,7 @@
 ### 2023/11/03
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
-| Congchi Yin| [Disentangling Syntax and Semantics in the Brain with Deep Networks](https://hal.science/hal-03361421v1/preview/Narratives_Syntax_semantics.pdf) | [[slides]](./slides/20231025_RuoqingZhao.pptx) |   -    |
+| Congchi Yin| [Disentangling Syntax and Semantics in the Brain with Deep Networks](https://hal.science/hal-03361421v1/preview/Narratives_Syntax_semantics.pdf) | [[slides]](./slides/20231103_CongchiYin.pdf) |   -    |
 ### 2023/10/25
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
