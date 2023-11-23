@@ -11,6 +11,11 @@
 | :------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
 | Haiyang Ou  | [Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference](https://direct.mit.edu/tacl/article/doi/10.1162/tacla00479/111220/Ultra-fine-Entity-Typing-with-Indirect-Supervision) | [[slides]](./slides/20231122_HaiyangOu.pdf) |   -    |
 |    -     | [PromptNER : Prompting For FewShot Named Entity Recognition](https://openreview.net/forum?id=WDQ9ZzsgDL) |                    -                     |   -    |
+### 2023/11/15
+| Speakers | Papers                                                       |                  Slides                  | Others |
+| :------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Yang Cao  | [On Faithfulness and Factuality in Abstractive Summarization](https://aclanthology.org/2020.acl-main.173/) | [[slides]](./slides/20231115_YangCao.pptx) |   -    |
+|    -     | [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634) |                    -                     |   -    |
 ### 2023/11/08
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
