@@ -6,6 +6,14 @@
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 ### Next Meeting
+### 2023/11/29
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Yangsong Lan | [Go Wider Instead of Deeper](https://arxiv.org/abs/2107.11817) | [[slides]](./slides/20231129_YangsongLan.pptx) |   -    |
+|      -      | [Towards Being Parameter-Efficient: A Stratified Sparsely Activated Transformer with Dynamic Capacity](https://arxiv.org/abs/2305.02176) |                    -                     |   -    |
+|      -      | [Mixture-of-Experts with Expert Choice Routing](https://arxiv.org/abs/2202.09368) |                    -                     |   -    |
+|      -      | [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008) |                    -                     |   -    |  
+
 ### 2023/11/22
 | Speakers | Papers                                                       |                  Slides                  | Others |
 | :------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
