@@ -9,7 +9,7 @@
 ### 2023/12/13
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
-| Zexuan Li | [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596) | [[slides]]() |   -    |
+| Zexuan Li | [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596) | [[slides]](./slides/20231213_ZexuanLi.pptx) |   -    |
 |      -      | [LabelPrompt: Effective Prompt-based Learning for Relation Classification](https://arxiv.org/abs/2302.08068) |                    -                     |   -    |
 
 ### 2023/11/29
