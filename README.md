@@ -8,7 +8,7 @@
 ### 2023/12/20
 |  Speakers   | Papers                                                       |                  Slides                   | Others |
 | :---------: | :----------------------------------------------------------- | :---------------------------------------: | :----: |
-| Renzhi Wang | [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning - ACL Antholog](https://aclanthology.org/2023.emnlp-main.609/) | [[slides]](./slides/20231220_rzhwang.pdf) |   -    |
+| Renzhi Wang | [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://aclanthology.org/2023.emnlp-main.609/) | [[slides]](./slides/20231220_rzhwang.pdf) |   -    |
 
 ### 2023/12/13
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
