@@ -5,7 +5,11 @@
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [nuaa-nlp/paper-reading](https://github.com/nuaa-nlp/paper-reading)；新人权限开通请联系pjli。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
+### 2023/1/10
 
+|    Speakers    | Papers                                                       |                   Slides                   | Others |
+| :------------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Yixin Bu       | [Meaning without reference in large language models ](https://iclr.cc/virtual/2023/13618) | [[slides]](./slides/20240110_yxbu.pptx) |   -    |
 ### 2023/12/27
 
 |    Speakers    | Papers                                                       |                   Slides                   | Others |
