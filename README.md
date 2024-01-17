@@ -5,6 +5,12 @@
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [nuaa-nlp/paper-reading](https://github.com/nuaa-nlp/paper-reading)；新人权限开通请联系pjli。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
+### 2023/01/17
+
+|    Speakers    | Papers                                                       |                   Slides                   | Others |
+| :------------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Shuo Feng | [Structure-Encoding Auxiliary Tasks for Improved Visual Representation](https://openaccess.thecvf.com/content/WACV2023/papers/Kuo_Structure-Encoding_Auxiliary_Tasks_for_Improved_Visual_Representation_in_Vision-and-Language_Navigation_WACV_2023_paper.pdf) | [[slides]](./slides/VLN-aux_tasks.pptx) |   -    |
+
 ### 2023/1/10
 
 |    Speakers    | Papers                                                       |                   Slides                   | Others |
