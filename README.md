@@ -5,6 +5,12 @@
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [nuaa-nlp/paper-reading](https://github.com/nuaa-nlp/paper-reading)；新人权限开通请联系pjli。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
+### 2023/03/08
+
+|    Speakers    | Papers                                                       |                   Slides                   | Others |
+| :------------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Feiyan Zhai | [Dynamic Confidence-Aware Multi-Modal Emotion Recognition](https://ieeexplore.ieee.org/document/10349925) | [[slides]](./slides/VLN-aux_tasks.pptx) |   -    |
+
 ### 2023/01/17
 
 |    Speakers    | Papers                                                       |                   Slides                   | Others |
