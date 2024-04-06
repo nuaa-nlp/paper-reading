@@ -9,7 +9,7 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
-| Xuanfan Ni | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces]([https://arxiv.org/pdf/2403.02502.pdf](https://arxiv.org/abs/2312.00752)) | [[slides]]() |   -    |
+| Xuanfan Ni | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | [[slides]](./slides/2024_0407_xfni_Mamba.pdf) |   -    |
 
 ### 2024/03/15
 
