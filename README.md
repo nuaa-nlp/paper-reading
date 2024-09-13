@@ -9,7 +9,7 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
-| Bo Zhang | [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool-Use](https://aclanthology.org/2024.acl-long.601.pdf#:~:text=1%20Introduction.%20Recent%20works%20that%20augmenting) | [[slides]](./slides/20240913_zhangbo.pdf) |   -    |
+| Bo Zhang | [Fortify the Shortest Stave in Attention:<br />Enhancing Context Awareness of Large Language Models for Effective Tool-Use](https://aclanthology.org/2024.acl-long.601.pdf#:~:text=1%20Introduction.%20Recent%20works%20that%20augmenting) | [[slides]](./slides/20240913_zhangbo.pdf) |   -    |
 
 ### 2024/05/31
 
