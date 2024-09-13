@@ -5,6 +5,12 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [nuaa-nlp/paper-reading](https://github.com/nuaa-nlp/paper-reading)；新人权限开通请联系pjli。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
+### 2024/09/13
+
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Bo Zhang | [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool-Use]([https://arxiv.org/abs/2311.01454](https://aclanthology.org/2024.acl-long.601.pdf#:~:text=1%20Introduction.%20Recent%20works%20that%20augmenting)) | [[slides]](./slides/20240913_zhangbo.pdf) |   -    |
+
 ### 2024/05/31
 
 | Speakers | Papers                                                       |                   Slides                   | Others |
