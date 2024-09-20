@@ -8,7 +8,7 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 ### 2024/09/20
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
-| Yangsong Lan | [Dataset Distillation](https://arxiv.org/pdf/1811.10959) | [[slides]](./slides/20231129_YangsongLan.pptx) |   -    |
+| Yangsong Lan | [Dataset Distillation](https://arxiv.org/pdf/1811.10959) | [[slides]](./slides/20240920_YangsongLan.pptx) |   -    |
 |      -      | [Dataset Condensation with Gradient Matching](https://arxiv.org/pdf/2006.05929) |                    -                     |   -    |
 |      -      | [Dataset Condensation with Distribution Matching](https://arxiv.org/pdf/2110.04181) |                    -                     |   -    |
 
