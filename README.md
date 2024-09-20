@@ -5,6 +5,13 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [nuaa-nlp/paper-reading](https://github.com/nuaa-nlp/paper-reading)；新人权限开通请联系pjli。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
+### 2024/09/20
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Yangsong Lan | [Dataset Distillation](https://arxiv.org/pdf/1811.10959) | [[slides]](./slides/20231129_YangsongLan.pptx) |   -    |
+|      -      | [Dataset Condensation with Gradient Matching](https://arxiv.org/pdf/2006.05929) |                    -                     |   -    |
+|      -      | [Dataset Condensation with Distribution Matching](https://arxiv.org/pdf/2110.04181) |                    -                     |   -    |
+
 ### 2024/09/13
 
 | Speakers | Papers                                                       |                   Slides                   | Others |
