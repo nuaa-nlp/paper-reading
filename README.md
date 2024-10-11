@@ -5,6 +5,12 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [nuaa-nlp/paper-reading](https://github.com/nuaa-nlp/paper-reading)；新人权限开通请联系pjli。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
+
+### 2024/10/11
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Yongpeng Zhang | [Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection](https://aclanthology.org/2020.acl-main.647/) | [[slides]](./slides/20241011_YongpengZhang.pdf) |   -    |
+
 ### 2024/09/27
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
