@@ -8,7 +8,7 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 ### 2024/10/25
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
-| Congchi Yin | [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192) | [[slides]](./slides/20241024_congchiyin.pptx) |   -    |
+| Congchi Yin | [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192) | [[slides]](./slides/20241025_congchiyin.pptx) |   -    |
 ### 2024/10/18
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
