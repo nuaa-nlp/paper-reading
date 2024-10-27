@@ -9,6 +9,10 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 ### 2024/10/25
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Zexuan Li | [ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis](https://arxiv.org/abs/2403.06932) | [[slides]](./slides/20241027_zexuanli.pptx) |   -    |
+### 2024/10/25
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
 | Congchi Yin | [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192) | [[slides]](./slides/20241025_congchiyin.pptx) |   -    |
 ### 2024/10/18
 | Speakers | Papers                                                       |                   Slides                   | Others |
