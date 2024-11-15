@@ -6,6 +6,12 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
 -
+### 2024/11/15
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| HongKai Zheng | [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937) | [[slides]](./slides/20241115_hongkaizheng.pptx) |   -    |
+|      -      | [Addressing Representation Collapse in Vector Quantized Models with One Linear Layer](https://arxiv.org/pdf/2411.02038) |                    -                     |   -    |
+|      -      | [Finite Scalar Quantization: VQ-VAE Made Simple](https://arxiv.org/pdf/2309.15505) |                    -                     |   -    |
 ### 2024/10/25
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
