@@ -6,6 +6,10 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
 -
+### 2024/11/22
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Runze Xia | [TOPOLM: BRAIN-LIKE SPATIO-FUNCTIONAL ORGANIZATION IN A TOPOGRAPHIC LANGUAGE MODEL](http://arxiv.org/abs/2410.11516) | [[slides]](./slides/20241122_runzexia.pptx) |   -    |
 ### 2024/11/15
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
