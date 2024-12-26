@@ -6,6 +6,12 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
 -
+### 2024/11/15
+|  Speakers   | Papers                                                       |                  Slides                  | Others |
+| :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
+| Shuo Feng | [PRET: Planning with Directed Fidelity Trajectory for Vision and Language Navigation](https://link.springer.com/chapter/10.1007/978-3-031-72848-8_5) | [[slides]](./slides/20241227_shuofeng.pptx) |   -    |
+|      -      | [Exploring Temporal Concurrency for Video-Language Representation Learning](http://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Exploring_Temporal_Concurrency_for_Video-Language_Representation_Learning_ICCV_2023_paper.html) |                    -                     |   -    |
+|      -      | [Language modeling via stochastic processes](https://arxiv.org/abs/2203.11370) |                    -                     |   -    |
 ### 2024/11/22
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
