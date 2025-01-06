@@ -6,7 +6,7 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
 -
-### 2024/11/15
+### 2025/12/03
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
 | Shuo Feng | [PRET: Planning with Directed Fidelity Trajectory for Vision and Language Navigation](https://link.springer.com/chapter/10.1007/978-3-031-72848-8_5) | [[slides]](./slides/20241227_ShuoFeng.pdf) |   -    |
