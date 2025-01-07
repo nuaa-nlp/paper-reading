@@ -13,6 +13,11 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 |      -      | [Exploring Temporal Concurrency for Video-Language Representation Learning](http://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Exploring_Temporal_Concurrency_for_Video-Language_Representation_Learning_ICCV_2023_paper.html) |                    -                     |   -    |
 |      -      | [Language modeling via stochastic processes](https://arxiv.org/abs/2203.11370) |                    -                     |   -    |
 |  Guanyun Zou  | [DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models](http://arxiv.org/abs/2403.10081) |   [[slides]](./slides/20250103-GuanYunZou.pptx)             |   -    |
+### 2024/12/06
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Feiyan Zhai | [BEWARE OF CALIBRATION DATA FOR PRUNING LARGE LANGUAGE MODELS](https://arxiv.org/abs/2410.17711) | [[slides]](./slides/20241206_FeiyanZhai.pptx) |   -    |
+|      -      | [DDK: Distilling Domain Knowledge for Efficient Large Language Models](https://arxiv.org/abs/2407.16154) |                    -                     |   -    |
 ### 2024/11/22
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
