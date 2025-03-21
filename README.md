@@ -6,6 +6,12 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
 -
+
+
+### 2025/3/21
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Yongpeng Zhang | [Explanations of Deep Language Models Explain Language Representations in the Brain](http://arxiv.org/abs/2502.14671) | [[slides]](./slides/20250321_yongpengzhang.pdf) |   -    |
 ### 2025/01/03
 |  Speakers   | Papers                                                       |                  Slides                  | Others |
 | :---------: | :----------------------------------------------------------- | :--------------------------------------: | :----: |
