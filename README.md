@@ -7,6 +7,10 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 ### next reading
 -
 
+### 2025/3/28
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Guanyun Zou | [REDEEP: DETECTING HALLUCINATION IN  RETRIEVAL-AUGMENTED GENERATION VIA  MECHANISTIC INTERPRETABILITY](http://arxiv.org/abs/2410.11414) | [[slides]](./slides/20250328_gyzou.pdf) |   -    |
 
 ### 2025/3/21
 | Speakers | Papers                                                       |                   Slides                   | Others |
