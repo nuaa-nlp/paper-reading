@@ -12,6 +12,10 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 | Bo Zhang | [Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery](https://openaccess.thecvf.com/content/CVPR2024/papers/Noman_Rethinking_Transformers_Pre-training_for_Multi-Spectral_Satellite_Imagery_CVPR_2024_paper.pdf) | [[slides]](./slides/20250425_bozhang.pptx) |   -    |
 |   -   | [SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery](https://papers.nips.cc/paper_files/paper/2022/file/01c561df365429f33fcd7a7faa44c985-Paper-Conference.pdf) |                    -                     |   -    |
 |   -   | [Masked Autoencoders Are Scalable Vision Learners](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) |                    -                     |   -    |
+### 2025/4/18
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Teng Lin | [SePer: MEASURE RETRIEVAL UTILITY THROUGH THE  LENS OF SEMANTIC PERPLEXITY REDUCTION](https://arxiv.org/pdf/2503.01478) | [[slides]](./slides/20250418_tenglin.pptx) |   -    |
 ### 2025/3/28
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
