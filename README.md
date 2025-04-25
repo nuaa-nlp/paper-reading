@@ -6,12 +6,16 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
 -
-
+### 2025/3/28
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Bo Zhang | [Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery](https://openaccess.thecvf.com/content/CVPR2024/papers/Noman_Rethinking_Transformers_Pre-training_for_Multi-Spectral_Satellite_Imagery_CVPR_2024_paper.pdf) | [[slides]](./slides/20250425_bozhang.pdf) |   -    |
+|   -   | [SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery]([https://arxiv.org/abs/2203.11370](https://papers.nips.cc/paper_files/paper/2022/file/01c561df365429f33fcd7a7faa44c985-Paper-Conference.pdf)) |                    -                     |   -    |
+|   -   | [Masked Autoencoders Are Scalable Vision Learners](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) |                    -                     |   -    |
 ### 2025/3/28
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
 | Guanyun Zou | [REDEEP: DETECTING HALLUCINATION IN  RETRIEVAL-AUGMENTED GENERATION VIA  MECHANISTIC INTERPRETABILITY](http://arxiv.org/abs/2410.11414) | [[slides]](./slides/20250328_gyzou.pdf) |   -    |
-
 ### 2025/3/21
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
