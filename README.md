@@ -6,6 +6,13 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
 -
+### 2025/05/09
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Xinyan Shi | [ReSearch: Learning to Reason with Search for LLMsvia Reinforcement Learning]([(https://export.arxiv.org/pdf/2503.19470)]) | [[slides]](./slides/20250509_XinyanShi.pptx) |   -    |
+|   -   | [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning]((https://arxiv.org/pdf/2503.05592)) |                    -                     |   -    |
+|   -   | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning]((https://arxiv.org/pdf/2503.09516)) |     
+
 ### 2025/4/25
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
