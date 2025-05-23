@@ -5,6 +5,11 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 - 分享的同学务必提前告知大家分享的论文，并在分享前update paper信息及slides到 [nuaa-nlp/paper-reading](https://github.com/nuaa-nlp/paper-reading)；新人权限开通请联系pjli。
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 ### next reading
+
+### 2025/5/23
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Hongkai zheng | [Parallel Scaling Law for Language Models](https://arxiv.org/abs/2505.10475) | [[slides]](./slides/20250523_hkzheng.pptx) |   -    |
 -
 ### 2025/05/09
 | Speakers | Papers                                                       |                   Slides                   | Others |
