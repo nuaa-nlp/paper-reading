@@ -10,7 +10,7 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
 | Hongkai zheng | [Parallel Scaling Law for Language Models](https://arxiv.org/abs/2505.10475) | [[slides]](./slides/20250523_hkzheng.pptx) |   -    |
--
+
 ### 2025/05/09
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
