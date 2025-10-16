@@ -9,6 +9,12 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 ### 2025/5/23
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Shuo Feng | [Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel](https://arxiv.org/abs/2412.08467) | [[slides]](./slides/20251017_shuofeng.pdf) |   -    |
+|      -      | [NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM](https://arxiv.org/abs/2502.11142) |                    -                     |   -    |
+
+### 2025/5/23
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
 | Hongkai Zheng | [Parallel Scaling Law for Language Models](https://arxiv.org/abs/2505.10475) | [[slides]](./slides/20250523_hkzheng.pptx) |   -    |
 
 ### 2025/05/09
@@ -475,3 +481,4 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 |:----:|:----|:----:|:-----:|
 |Zhaoyang Han|USENIX 2020 [TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://www.usenix.org/conference/usenixsecurity20/presentation/li-jinfeng)|[[slides]](./slides/20210728_ZhaoyangHan.pdf)|-|
 |-|NDSS 2019 [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271) |-|-|
+
