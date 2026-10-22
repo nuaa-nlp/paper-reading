@@ -14,7 +14,7 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 ### 2026/7/03
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
-| Hongwei Bu | [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904) | [[slides]](./slides/20260703_hwbu.pptx) |   -    |
+| Hongwei Bu | [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904) | [[slides]](./slides/20260703_hwbu.pptx |   -    |
 
 ### 2025/11/21
 | Speakers | Papers                                                       |                   Slides                   | Others |
