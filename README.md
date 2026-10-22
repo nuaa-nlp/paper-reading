@@ -11,6 +11,11 @@ https://github.com/nuaa-nlp/paper-reading/blob/main/README.md
 | Huibo Liu | [Hierarchical Multi-agent Large Language Model Reasoning for Autonomous Functional  Materials Discovery](https://arxiv.org/abs/2512.13930) | [[slides]](./slides/20261014_hbliu.pptx) |   -    |
 |      -      | [A collaborative agent with two lightweight synergistic models for  autonomous crystal materials research](https://arxiv.org/pdf/2604.11540) |                    -                     |   -    |
 
+### 2026/7/03
+| Speakers | Papers                                                       |                   Slides                   | Others |
+| :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Hongwei Bu | [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904) | [[slides]](./slides/20260703_hwbu.pptx) |   -    |
+
 ### 2025/11/21
 | Speakers | Papers                                                       |                   Slides                   | Others |
 | :------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
